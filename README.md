@@ -1,2 +1,2 @@
 # teams-xscripts
-Chromium based transcripts for use with Microsoft Teams web
+Chromium based transcripts for use with Microsoft Teams (web version).
